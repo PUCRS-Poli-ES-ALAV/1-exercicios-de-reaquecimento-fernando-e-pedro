@@ -1,4 +1,5 @@
 
+#fernando lisboa neto e pedro barreto munhoz
 def multi_rec(num1, num2):
     if (num1 == 1):
         return num2
@@ -64,7 +65,7 @@ def palindromo_rec(s):
 def combs(n):
     s = "abcdefghijklmnopqrstuvwxyz"
     inicial = s[:n]
-    
+
 
 
 
